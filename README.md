@@ -1,4 +1,4 @@
-# ARKANOID-GAME
+# Arkanoid-Game
 
 ## Overview
 
